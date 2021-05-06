@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Runtime.Serialization.Formatters.Binary;
 using System.Text;
-using System.Xml.Serialization;
+using System.Text.Json;
 
 namespace Lesson_17
 {
@@ -14,21 +14,9 @@ namespace Lesson_17
             Console.WriteLine("Done");
         }
     }
-
-    
+  
     public class Person
     {
-        public Person()
-        {
-
-        }
-
-        public Person(string name, int age)
-        {
-            Name = name;
-            Age = age;
-        }
-
         public string Name { get; set; }
         public int Age { get; set; }
 
@@ -40,6 +28,31 @@ namespace Lesson_17
     {
         static void Main(string[] args)
         {
+            var people = new List<Person>
+            {
+                new Person { Name = "Resad", Age = 17 },
+                new Person { Name = "Perviz", Age = 21 },
+                new Person { Name = "Rasim", Age = 20 },
+            };
+
+            var data = JsonSerializer.Serialize(people);
+            File.WriteAllText("people.json", data);
+
+
+
+            //var data = File.ReadAllText("person.json");
+            //var person = JsonSerializer.Deserialize<Person>(data);
+
+            //Console.WriteLine(person);
+
+
+            //var person = new Person { Name = "Rasim", Age = 20 };
+
+            //var data = JsonSerializer.Serialize(person);
+            //File.WriteAllText("person.json", data);
+
+
+
 
             /* XML Serilazition
              *      requires:
