@@ -1,0 +1,837 @@
+{
+  "BUS": [
+    {
+      "@attributes": {
+        "BUS_ID": "99103",
+        "PLATE": "99 JH 103",
+        "DRIVER_NAME": " ",
+        "CURRENT_STOP": "60075 14 SAYLI BAKI PE\u015e\u018f L\u0130SEY\u0130",
+        "PREV_STOP": "60074 EL\u015e\u018fN S\u00dcLEYMANOV K\u00dc\u00c7.",
+        "SPEED": "0",
+        "BUS_MODEL": "CREALIS",
+        "LATITUDE": "40.356113",
+        "LONGITUDE": "49.98154",
+        "ROUTE_NAME": "C\u018fM\u015e\u0130D NAX\u00c7IVANSK\u0130 K\u00dc\u00c7\u018fS\u0130 - S\u018fM\u018fD VUR\u011eUN BA\u011eI",
+        "LAST_UPDATE_TIME": "20201103011040",
+        "DISPLAY_ROUTE_CODE": "30",
+        "SVCOUNT": "12"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "99052",
+        "PLATE": "99 JH 052",
+        "DRIVER_NAME": "Hac\u0131 Yusifov",
+        "CURRENT_STOP": "60201 257 SAYLI ORTA M\u018fKT\u018fB",
+        "PREV_STOP": "50136 QARA QARAYEV PR. (C.NAX\u00c7IVANSK\u0130 K\u00dc\u00c7. il\u0259 k\u0259si\u015fm\u0259)",
+        "SPEED": "0",
+        "BUS_MODEL": "CREALIS",
+        "LATITUDE": "40.35581",
+        "LONGITUDE": "49.981106",
+        "ROUTE_NAME": "BAKI D\u018fM\u0130R YOLU VA\u011eZALI-257 SAYLI ORTA M\u018fKT\u018fB",
+        "LAST_UPDATE_TIME": "20201031132320",
+        "DISPLAY_ROUTE_CODE": "11",
+        "SVCOUNT": "19"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "99250",
+        "PLATE": "99 JH 250",
+        "DRIVER_NAME": "Namiq \u018fliyev",
+        "CURRENT_STOP": "30200 AZADLIQ PROSPEKT\u0130 m\/st",
+        "PREV_STOP": " ",
+        "SPEED": "0",
+        "BUS_MODEL": "CREALIS",
+        "LATITUDE": "40.35705",
+        "LONGITUDE": "49.980877",
+        "ROUTE_NAME": "AZADLIQ m\/st-BAYIL Q\u018fS\u018fB\u018fS\u0130",
+        "LAST_UPDATE_TIME": "20201103035750",
+        "DISPLAY_ROUTE_CODE": "6",
+        "SVCOUNT": "16"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "99107",
+        "PLATE": "99 JH 107",
+        "DRIVER_NAME": " ",
+        "CURRENT_STOP": "30900 KORO\u011eLU m\/st",
+        "PREV_STOP": "50237 BAKI N\u018fQL\u0130YYAT AGENTL\u0130Y\u0130",
+        "SPEED": "0",
+        "BUS_MODEL": "CREALIS",
+        "LATITUDE": "0",
+        "LONGITUDE": "0",
+        "ROUTE_NAME": "YEN\u0130 YASAMAL PARKI - G\u018fNCL\u0130K m\/st",
+        "LAST_UPDATE_TIME": "20200110155430",
+        "DISPLAY_ROUTE_CODE": "17",
+        "SVCOUNT": "0"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "99112",
+        "PLATE": "99 JH 112",
+        "DRIVER_NAME": " ",
+        "CURRENT_STOP": "50091 NAX\u00c7IVANSK\u0130 ADINA H\u018fRB\u0130 L\u0130SEY",
+        "PREV_STOP": "40058 NAX\u00c7IVANSK\u0130 ADINA H\u018fRB\u0130 L\u0130SEY",
+        "SPEED": "0",
+        "BUS_MODEL": "CREALIS",
+        "LATITUDE": "0",
+        "LONGITUDE": "0",
+        "ROUTE_NAME": "L\u00d6KBATAN Q\u018fS\u018fB\u018fS\u0130 - 28 MAY m\/st",
+        "LAST_UPDATE_TIME": "20201223084520",
+        "DISPLAY_ROUTE_CODE": "125",
+        "SVCOUNT": "0"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "99224",
+        "PLATE": "99 JH 224",
+        "DRIVER_NAME": " ",
+        "CURRENT_STOP": "60201 257 SAYLI ORTA M\u018fKT\u018fB",
+        "PREV_STOP": " ",
+        "SPEED": "0",
+        "BUS_MODEL": "CREALIS",
+        "LATITUDE": "40.355686",
+        "LONGITUDE": "49.981304",
+        "ROUTE_NAME": "257 SAYLI ORTA M\u018fKT\u018fB - BAKI D\u018fM\u0130R YOLU VA\u011eZALI",
+        "LAST_UPDATE_TIME": "20201102225130",
+        "DISPLAY_ROUTE_CODE": "11",
+        "SVCOUNT": "16"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "99294",
+        "PLATE": "99 JH 294",
+        "DRIVER_NAME": " ",
+        "CURRENT_STOP": "40016 PORT BAKU",
+        "PREV_STOP": "60051 N\u018fS\u0130M\u0130 RAYON M\u018f\u015e\u011eULLUQ X\u0130DM\u018fT\u0130",
+        "SPEED": "0",
+        "BUS_MODEL": "CREALIS",
+        "LATITUDE": "40.356598",
+        "LONGITUDE": "49.98021",
+        "ROUTE_NAME": "28 MAY m\/st-H\u00d6VSAN Q\u018fS.",
+        "LAST_UPDATE_TIME": "20201117050700",
+        "DISPLAY_ROUTE_CODE": "175",
+        "SVCOUNT": "19"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "99290",
+        "PLATE": "99 JH 290",
+        "DRIVER_NAME": " ",
+        "CURRENT_STOP": "50227 BAKUBUS M\u018fHDUD M\u018fSUL\u0130YY\u018fTL\u0130 C\u018fM\u0130YY\u018fT\u0130",
+        "PREV_STOP": "50220 RAS\u0130M \u015eAHSUVAROV K\u00dc\u00c7.",
+        "SPEED": "0",
+        "BUS_MODEL": "CREALIS",
+        "LATITUDE": "40.358433",
+        "LONGITUDE": "49.980724",
+        "ROUTE_NAME": "H\u00d6VSAN Q\u018fS. - 28 MAY m\/st",
+        "LAST_UPDATE_TIME": "20200909032930",
+        "DISPLAY_ROUTE_CODE": "175",
+        "SVCOUNT": "15"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "99251",
+        "PLATE": "99 JH 251",
+        "DRIVER_NAME": " ",
+        "CURRENT_STOP": "1089 QARA\u00c7UXUR M\u018fSC\u0130D\u0130",
+        "PREV_STOP": "1321 N\u018fR\u0130MANOV RAYON D\u00d6VL\u018fT \u018fM\u018fK M\u00dcF\u018fTT\u0130\u015eL\u0130Y\u0130 X\u0130DM\u018fT\u0130",
+        "SPEED": "0",
+        "BUS_MODEL": "CREALIS",
+        "LATITUDE": "40.356647",
+        "LONGITUDE": "49.98157",
+        "ROUTE_NAME": "N\u018fR\u0130MAN N\u018fR\u0130MANOV m\/st-NEFT\u00c7\u0130L\u018fR PARKI",
+        "LAST_UPDATE_TIME": "20201102224420",
+        "DISPLAY_ROUTE_CODE": "24",
+        "SVCOUNT": "15"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "99072",
+        "PLATE": "99 JH 072",
+        "DRIVER_NAME": " ",
+        "CURRENT_STOP": "1162 NEFT\u00c7\u0130L\u018fR PARKI",
+        "PREV_STOP": " ",
+        "SPEED": "0",
+        "BUS_MODEL": "CREALIS",
+        "LATITUDE": "40.356457",
+        "LONGITUDE": "49.981636",
+        "ROUTE_NAME": "NEFT\u00c7\u0130L\u018fR PARKI - N\u018fR\u0130MAN N\u018fR\u0130MANOV m\/st",
+        "LAST_UPDATE_TIME": "20201103000130",
+        "DISPLAY_ROUTE_CODE": "24",
+        "SVCOUNT": "14"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "99047",
+        "PLATE": "99 JH 047",
+        "DRIVER_NAME": " ",
+        "CURRENT_STOP": "60201 257 SAYLI ORTA M\u018fKT\u018fB",
+        "PREV_STOP": " ",
+        "SPEED": "0",
+        "BUS_MODEL": "CREALIS",
+        "LATITUDE": "40.356148",
+        "LONGITUDE": "49.98112",
+        "ROUTE_NAME": "257 SAYLI ORTA M\u018fKT\u018fB - BAKI D\u018fM\u0130R YOLU VA\u011eZALI",
+        "LAST_UPDATE_TIME": "20201102220300",
+        "DISPLAY_ROUTE_CODE": "11",
+        "SVCOUNT": "18"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "99083",
+        "PLATE": "99 JH 083",
+        "DRIVER_NAME": " ",
+        "CURRENT_STOP": "30200 AZADLIQ PROSPEKT\u0130 m\/st",
+        "PREV_STOP": " ",
+        "SPEED": "0",
+        "BUS_MODEL": "CREALIS",
+        "LATITUDE": "40.358025",
+        "LONGITUDE": "49.981358",
+        "ROUTE_NAME": "AZADLIQ m\/st-BAYIL Q\u018fS\u018fB\u018fS\u0130",
+        "LAST_UPDATE_TIME": "20201109172550",
+        "DISPLAY_ROUTE_CODE": "6",
+        "SVCOUNT": "13"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "99065",
+        "PLATE": "99 JH 065",
+        "DRIVER_NAME": " ",
+        "CURRENT_STOP": "1162 NEFT\u00c7\u0130L\u018fR PARKI",
+        "PREV_STOP": " ",
+        "SPEED": "0",
+        "BUS_MODEL": "CREALIS",
+        "LATITUDE": "40.35811",
+        "LONGITUDE": "49.98111",
+        "ROUTE_NAME": "NEFT\u00c7\u0130L\u018fR PARKI - N\u018fR\u0130MAN N\u018fR\u0130MANOV m\/st",
+        "LAST_UPDATE_TIME": "20201220015130",
+        "DISPLAY_ROUTE_CODE": "24",
+        "SVCOUNT": "19"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "99296",
+        "PLATE": "99 JH 296",
+        "DRIVER_NAME": " ",
+        "CURRENT_STOP": "30200 AZADLIQ PROSPEKT\u0130 m\/st",
+        "PREV_STOP": " ",
+        "SPEED": "0",
+        "BUS_MODEL": "CREALIS",
+        "LATITUDE": "40.357315",
+        "LONGITUDE": "49.97951",
+        "ROUTE_NAME": "AZADLIQ m\/st-BAYIL Q\u018fS\u018fB\u018fS\u0130",
+        "LAST_UPDATE_TIME": "20201210112020",
+        "DISPLAY_ROUTE_CODE": "6",
+        "SVCOUNT": "14"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "99233",
+        "PLATE": "99 JH 233",
+        "DRIVER_NAME": " ",
+        "CURRENT_STOP": "1 N\u018fR\u0130MAN N\u018fR\u0130MANOV m\/st",
+        "PREV_STOP": "1671 KORO\u011eLU NMM PERRON 2",
+        "SPEED": "0",
+        "BUS_MODEL": "CREALIS",
+        "LATITUDE": "40.356445",
+        "LONGITUDE": "49.98149",
+        "ROUTE_NAME": "NEFT\u00c7\u0130L\u018fR PARKI - N\u018fR\u0130MAN N\u018fR\u0130MANOV m\/st",
+        "LAST_UPDATE_TIME": "20201102231520",
+        "DISPLAY_ROUTE_CODE": "24",
+        "SVCOUNT": "16"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "99257",
+        "PLATE": "99 JH 257",
+        "DRIVER_NAME": " ",
+        "CURRENT_STOP": "50227 BAKUBUS M\u018fHDUD M\u018fSUL\u0130YY\u018fTL\u0130 C\u018fM\u0130YY\u018fT\u0130",
+        "PREV_STOP": "50220 RAS\u0130M \u015eAHSUVAROV K\u00dc\u00c7.",
+        "SPEED": "0",
+        "BUS_MODEL": "CREALIS",
+        "LATITUDE": "40.357853",
+        "LONGITUDE": "49.981064",
+        "ROUTE_NAME": "H\u00d6VSAN Q\u018fS. - 28 MAY m\/st",
+        "LAST_UPDATE_TIME": "20201102064950",
+        "DISPLAY_ROUTE_CODE": "175",
+        "SVCOUNT": "17"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "99054",
+        "PLATE": "99 JH 054",
+        "DRIVER_NAME": " ",
+        "CURRENT_STOP": "60073 C\u018fM\u015e\u0130D NAX\u00c7IVANSK\u0130 K\u00dc\u00c7.",
+        "PREV_STOP": "60089 58 SAYLI M\u018fKT\u018fB",
+        "SPEED": "0",
+        "BUS_MODEL": "CREALIS",
+        "LATITUDE": "40.356094",
+        "LONGITUDE": "49.981556",
+        "ROUTE_NAME": "C\u018fM\u015e\u0130D NAX\u00c7IVANSK\u0130 K\u00dc\u00c7\u018fS\u0130 - S\u018fM\u018fD VUR\u011eUN BA\u011eI",
+        "LAST_UPDATE_TIME": "20201103050510",
+        "DISPLAY_ROUTE_CODE": "30",
+        "SVCOUNT": "19"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "99293",
+        "PLATE": "99 JH 293",
+        "DRIVER_NAME": " ",
+        "CURRENT_STOP": "60201 257 SAYLI ORTA M\u018fKT\u018fB",
+        "PREV_STOP": " ",
+        "SPEED": "0",
+        "BUS_MODEL": "CREALIS",
+        "LATITUDE": "40.356167",
+        "LONGITUDE": "49.98094",
+        "ROUTE_NAME": "257 SAYLI ORTA M\u018fKT\u018fB - BAKI D\u018fM\u0130R YOLU VA\u011eZALI",
+        "LAST_UPDATE_TIME": "20201102214000",
+        "DISPLAY_ROUTE_CODE": "11",
+        "SVCOUNT": "20"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "99196",
+        "PLATE": "99 JH 196",
+        "DRIVER_NAME": " ",
+        "CURRENT_STOP": "30646 D\u018fRN\u018fG\u00dcL m\/st",
+        "PREV_STOP": " ",
+        "SPEED": "0",
+        "BUS_MODEL": "CREALIS",
+        "LATITUDE": "40.357048",
+        "LONGITUDE": "49.98132",
+        "ROUTE_NAME": "D\u018fRN\u018fG\u00dcL m\/st-20-C\u0130 SAH\u018f",
+        "LAST_UPDATE_TIME": "20201103003920",
+        "DISPLAY_ROUTE_CODE": "88",
+        "SVCOUNT": "6"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "99271",
+        "PLATE": "99 JH 271",
+        "DRIVER_NAME": "Mehman \u018fsg\u0259rov",
+        "CURRENT_STOP": "60071 R\u00dcST\u018fM R\u00dcST\u018fMOV K\u00dc\u00c7.",
+        "PREV_STOP": "50135 QARA QARAYEV PR. 65 (NEFT\u00c7\u0130L\u018fR m\/st)",
+        "SPEED": "0",
+        "BUS_MODEL": "CREALIS",
+        "LATITUDE": "40.35842",
+        "LONGITUDE": "49.980694",
+        "ROUTE_NAME": "S\u018fM\u018fD VUR\u011eUN BA\u011eI-C\u018fM\u015e\u0130D NAX\u00c7IVANSK\u0130 K\u00dc\u00c7\u018fS\u0130",
+        "LAST_UPDATE_TIME": "20201101103750",
+        "DISPLAY_ROUTE_CODE": "30",
+        "SVCOUNT": "12"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "99076",
+        "PLATE": "99 JH 076",
+        "DRIVER_NAME": " ",
+        "CURRENT_STOP": "50227 BAKUBUS M\u018fHDUD M\u018fSUL\u0130YY\u018fTL\u0130 C\u018fM\u0130YY\u018fT\u0130",
+        "PREV_STOP": "50220 RAS\u0130M \u015eAHSUVAROV K\u00dc\u00c7.",
+        "SPEED": "0",
+        "BUS_MODEL": "CREALIS",
+        "LATITUDE": "40.35815",
+        "LONGITUDE": "49.98109",
+        "ROUTE_NAME": "H\u00d6VSAN Q\u018fS. - 28 MAY m\/st",
+        "LAST_UPDATE_TIME": "20201115144950",
+        "DISPLAY_ROUTE_CODE": "175",
+        "SVCOUNT": "16"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "99267",
+        "PLATE": "99 JH 267",
+        "DRIVER_NAME": " ",
+        "CURRENT_STOP": "40132 28 MAY m\/st",
+        "PREV_STOP": "40069 AZ\u018fRNEFTYA\u011e ZAVODU",
+        "SPEED": "0",
+        "BUS_MODEL": "CREALIS",
+        "LATITUDE": "40.35611",
+        "LONGITUDE": "49.980045",
+        "ROUTE_NAME": "H\u00d6VSAN Q\u018fS. - 28 MAY m\/st",
+        "LAST_UPDATE_TIME": "20201214060230",
+        "DISPLAY_ROUTE_CODE": "175",
+        "SVCOUNT": "13"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "99057",
+        "PLATE": "99 JH 057",
+        "DRIVER_NAME": " ",
+        "CURRENT_STOP": "60093 M\u018f\u015e\u018fD\u0130 H\u0130LAL KAZIMOV K\u00dc\u00c7.",
+        "PREV_STOP": "60086 X\u018fTA\u0130 RAYON M\u018f\u015e\u011eULLUQ X\u0130DM\u018fT\u0130",
+        "SPEED": "0",
+        "BUS_MODEL": "CREALIS",
+        "LATITUDE": "40.35622",
+        "LONGITUDE": "49.981636",
+        "ROUTE_NAME": "C\u018fM\u015e\u0130D NAX\u00c7IVANSK\u0130 K\u00dc\u00c7\u018fS\u0130 - S\u018fM\u018fD VUR\u011eUN BA\u011eI",
+        "LAST_UPDATE_TIME": "20201103040510",
+        "DISPLAY_ROUTE_CODE": "30",
+        "SVCOUNT": "17"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "99246",
+        "PLATE": "99 JH 246",
+        "DRIVER_NAME": "Ramin M\u0259mm\u0259dov",
+        "CURRENT_STOP": "2140 BAKI OL\u0130MP\u0130YA STAD\u0130ONU",
+        "PREV_STOP": "578 BAKIXANOV \u00c7\u00d6R\u018fK ZAVODU",
+        "SPEED": "0",
+        "BUS_MODEL": "CREALIS",
+        "LATITUDE": "40.434547",
+        "LONGITUDE": "49.918526",
+        "ROUTE_NAME": "NEFT\u00c7\u0130L\u018fR PARKI - N\u018fR\u0130MAN N\u018fR\u0130MANOV m\/st",
+        "LAST_UPDATE_TIME": "20200901072050",
+        "DISPLAY_ROUTE_CODE": "24",
+        "SVCOUNT": "15"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "99278",
+        "PLATE": "99 JH 278",
+        "DRIVER_NAME": " ",
+        "CURRENT_STOP": "50227 BAKUBUS M\u018fHDUD M\u018fSUL\u0130YY\u018fTL\u0130 C\u018fM\u0130YY\u018fT\u0130",
+        "PREV_STOP": "50220 RAS\u0130M \u015eAHSUVAROV K\u00dc\u00c7.",
+        "SPEED": "0",
+        "BUS_MODEL": "CREALIS",
+        "LATITUDE": "0",
+        "LONGITUDE": "0",
+        "ROUTE_NAME": "\u018fHM\u018fDL\u0130 m\/st - 28 MAY m\/st",
+        "LAST_UPDATE_TIME": "20201102221040",
+        "DISPLAY_ROUTE_CODE": "21",
+        "SVCOUNT": "0"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "99264",
+        "PLATE": "99 JH 264",
+        "DRIVER_NAME": " ",
+        "CURRENT_STOP": "60201 257 SAYLI ORTA M\u018fKT\u018fB",
+        "PREV_STOP": " ",
+        "SPEED": "0",
+        "BUS_MODEL": "CREALIS",
+        "LATITUDE": "40.358173",
+        "LONGITUDE": "49.9809",
+        "ROUTE_NAME": "257 SAYLI ORTA M\u018fKT\u018fB - BAKI D\u018fM\u0130R YOLU VA\u011eZALI",
+        "LAST_UPDATE_TIME": "20201104221620",
+        "DISPLAY_ROUTE_CODE": "11",
+        "SVCOUNT": "13"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "99297",
+        "PLATE": "99 JH 297",
+        "DRIVER_NAME": " ",
+        "CURRENT_STOP": "50223 BAHAR Q\u018fS\u018fB\u018fS\u0130",
+        "PREV_STOP": "50221 H\u00d6VSAN \u015eOSSES\u0130",
+        "SPEED": "0",
+        "BUS_MODEL": "CREALIS",
+        "LATITUDE": "40.356976",
+        "LONGITUDE": "49.981274",
+        "ROUTE_NAME": "H\u00d6VSAN Q\u018fS. - 28 MAY m\/st",
+        "LAST_UPDATE_TIME": "20201102010050",
+        "DISPLAY_ROUTE_CODE": "175",
+        "SVCOUNT": "15"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "99247",
+        "PLATE": "99 JH 247",
+        "DRIVER_NAME": " ",
+        "CURRENT_STOP": "60072 EL\u015e\u018fN S\u00dcLEYMANOV K\u00dc\u00c7.",
+        "PREV_STOP": "60071 R\u00dcST\u018fM R\u00dcST\u018fMOV K\u00dc\u00c7.",
+        "SPEED": "0",
+        "BUS_MODEL": "CREALIS",
+        "LATITUDE": "40.35637",
+        "LONGITUDE": "49.98144",
+        "ROUTE_NAME": "S\u018fM\u018fD VUR\u011eUN BA\u011eI-C\u018fM\u015e\u0130D NAX\u00c7IVANSK\u0130 K\u00dc\u00c7\u018fS\u0130",
+        "LAST_UPDATE_TIME": "20201103002640",
+        "DISPLAY_ROUTE_CODE": "30",
+        "SVCOUNT": "13"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "99068",
+        "PLATE": "99 JH 068",
+        "DRIVER_NAME": " ",
+        "CURRENT_STOP": "50091 NAX\u00c7IVANSK\u0130 ADINA H\u018fRB\u0130 L\u0130SEY",
+        "PREV_STOP": "40058 NAX\u00c7IVANSK\u0130 ADINA H\u018fRB\u0130 L\u0130SEY",
+        "SPEED": "0",
+        "BUS_MODEL": "CREALIS",
+        "LATITUDE": "40.35786",
+        "LONGITUDE": "49.9797",
+        "ROUTE_NAME": "\u018fHM\u018fDL\u0130 m\/st - 28 MAY m\/st",
+        "LAST_UPDATE_TIME": "20201014125640",
+        "DISPLAY_ROUTE_CODE": "21",
+        "SVCOUNT": "17"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "99097",
+        "PLATE": "99 JH 097",
+        "DRIVER_NAME": "Cabir B\u00fcnyatov",
+        "CURRENT_STOP": "914 254 SAYLI M\u018fKT\u018fB",
+        "PREV_STOP": "50050 QARA QARAYEV PR. 34 (QARA QARAYEV m\/st)",
+        "SPEED": "0",
+        "BUS_MODEL": "CREALIS",
+        "LATITUDE": "40.355885",
+        "LONGITUDE": "49.981647",
+        "ROUTE_NAME": "BAKI D\u018fM\u0130R YOLU VA\u011eZALI-257 SAYLI ORTA M\u018fKT\u018fB",
+        "LAST_UPDATE_TIME": "20201105004730",
+        "DISPLAY_ROUTE_CODE": "11",
+        "SVCOUNT": "14"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "99234",
+        "PLATE": "99 JH 234",
+        "DRIVER_NAME": " ",
+        "CURRENT_STOP": "30300 AZADLIQ PROSPEKT\u0130 m\/st",
+        "PREV_STOP": " ",
+        "SPEED": "0",
+        "BUS_MODEL": "CREALIS",
+        "LATITUDE": "40.35639",
+        "LONGITUDE": "49.97994",
+        "ROUTE_NAME": "28 MAY m\/st-\u018fHM\u018fDL\u0130 m\/st",
+        "LAST_UPDATE_TIME": "20201106065400",
+        "DISPLAY_ROUTE_CODE": "21",
+        "SVCOUNT": "18"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "98182",
+        "PLATE": "99 JX 182",
+        "DRIVER_NAME": "May\u0131l Abbasov",
+        "CURRENT_STOP": "60051 N\u018fS\u0130M\u0130 RAYON M\u018f\u015e\u011eULLUQ X\u0130DM\u018fT\u0130",
+        "PREV_STOP": "60050 S\u018fM\u018fD VUR\u011eUN BA\u011eI",
+        "SPEED": "0",
+        "BUS_MODEL": "URBANWAY",
+        "LATITUDE": "0",
+        "LONGITUDE": "0",
+        "ROUTE_NAME": "S\u018fM\u018fD VUR\u011eUN BA\u011eI-C\u018fM\u015e\u0130D NAX\u00c7IVANSK\u0130 K\u00dc\u00c7\u018fS\u0130",
+        "LAST_UPDATE_TIME": "20201104221900",
+        "DISPLAY_ROUTE_CODE": "30",
+        "SVCOUNT": "0"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "98169",
+        "PLATE": "99 JX 169",
+        "DRIVER_NAME": " ",
+        "CURRENT_STOP": "50091 NAX\u00c7IVANSK\u0130 ADINA H\u018fRB\u0130 L\u0130SEY",
+        "PREV_STOP": "40058 NAX\u00c7IVANSK\u0130 ADINA H\u018fRB\u0130 L\u0130SEY",
+        "SPEED": "0",
+        "BUS_MODEL": "URBANWAY",
+        "LATITUDE": "40.356655",
+        "LONGITUDE": "49.98097",
+        "ROUTE_NAME": "SERVIS - SERVIS",
+        "LAST_UPDATE_TIME": "20201103045800",
+        "DISPLAY_ROUTE_CODE": "0",
+        "SVCOUNT": "18"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "98230",
+        "PLATE": "99 JX 230",
+        "DRIVER_NAME": "Bayram C. Mehdiyev",
+        "CURRENT_STOP": "30120 SAH\u0130L METROSU",
+        "PREV_STOP": "30122 KUKLA TEATRI",
+        "SPEED": "0",
+        "BUS_MODEL": "URBANWAY",
+        "LATITUDE": "40.356148",
+        "LONGITUDE": "49.980892",
+        "ROUTE_NAME": "20-C\u0130 SAH\u018f - N.N\u018fR\u0130MANOV m\/st",
+        "LAST_UPDATE_TIME": "20201031124300",
+        "DISPLAY_ROUTE_CODE": "5",
+        "SVCOUNT": "18"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "98248",
+        "PLATE": "99 JX 248",
+        "DRIVER_NAME": "\u015e\u0259hri N. F\u0259rmanov",
+        "CURRENT_STOP": "60201 257 SAYLI ORTA M\u018fKT\u018fB",
+        "PREV_STOP": "50136 QARA QARAYEV PR. (C.NAX\u00c7IVANSK\u0130 K\u00dc\u00c7. il\u0259 k\u0259si\u015fm\u0259)",
+        "SPEED": "0",
+        "BUS_MODEL": "URBANWAY",
+        "LATITUDE": "40.35571",
+        "LONGITUDE": "49.98125",
+        "ROUTE_NAME": "BAKI D\u018fM\u0130R YOLU VA\u011eZALI-257 SAYLI ORTA M\u018fKT\u018fB",
+        "LAST_UPDATE_TIME": "20201031130420",
+        "DISPLAY_ROUTE_CODE": "11",
+        "SVCOUNT": "17"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "98223",
+        "PLATE": "99 JX 223",
+        "DRIVER_NAME": "\u018fdal\u0259t Quliyev",
+        "CURRENT_STOP": "60214 M\u018fH\u018fMM\u018fD HAD\u0130 K\u00dc\u00c7. 107",
+        "PREV_STOP": "50138 QARA QARAYEV PR. 74 (NEFT\u00c7\u0130L\u018fR m\/st)",
+        "SPEED": "0",
+        "BUS_MODEL": "URBANWAY",
+        "LATITUDE": "40.356358",
+        "LONGITUDE": "49.981045",
+        "ROUTE_NAME": "BAKI D\u018fM\u0130R YOLU VA\u011eZALI-257 SAYLI ORTA M\u018fKT\u018fB",
+        "LAST_UPDATE_TIME": "20201102210740",
+        "DISPLAY_ROUTE_CODE": "11",
+        "SVCOUNT": "18"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "99978",
+        "PLATE": "99 JH 978",
+        "DRIVER_NAME": " ",
+        "CURRENT_STOP": "60204 X\u018fTA\u0130 PROSPEKT\u0130",
+        "PREV_STOP": "60203 N\u018fR\u0130MANOV RAYON \u0130CRA HAK\u0130M\u0130YY\u018fT\u0130",
+        "SPEED": "0",
+        "BUS_MODEL": "URBANWAY",
+        "LATITUDE": "40.35627",
+        "LONGITUDE": "49.980938",
+        "ROUTE_NAME": "BAKI D\u018fM\u0130R YOLU VA\u011eZALI-257 SAYLI ORTA M\u018fKT\u018fB",
+        "LAST_UPDATE_TIME": "20201031122230",
+        "DISPLAY_ROUTE_CODE": "11",
+        "SVCOUNT": "17"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "98205",
+        "PLATE": "99 JX 205",
+        "DRIVER_NAME": " ",
+        "CURRENT_STOP": "30900 KORO\u011eLU m\/st",
+        "PREV_STOP": "50237 BAKI N\u018fQL\u0130YYAT AGENTL\u0130Y\u0130",
+        "SPEED": "0",
+        "BUS_MODEL": "URBANWAY",
+        "LATITUDE": "40.358505",
+        "LONGITUDE": "49.98135",
+        "ROUTE_NAME": "257 SAYLI ORTA M\u018fKT\u018fB - BAKI D\u018fM\u0130R YOLU VA\u011eZALI",
+        "LAST_UPDATE_TIME": "20201130174540",
+        "DISPLAY_ROUTE_CODE": "11",
+        "SVCOUNT": "15"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "98104",
+        "PLATE": "99 JX 104",
+        "DRIVER_NAME": " ",
+        "CURRENT_STOP": "50165 Z\u0130YA B\u00dcNYADOV PR. (M\u0130LL\u0130 ARX\u0130V \u0130DAR\u018fS\u0130)",
+        "PREV_STOP": "50300 Z\u0130YA B\u00dcNYADOV K\u00dc\u00c7. ( ELDAR BABAYEV K\u00dc\u00c7. \u0130L\u018f K\u018fS\u0130\u015eM\u018f)",
+        "SPEED": "0",
+        "BUS_MODEL": "URBANWAY",
+        "LATITUDE": "40.3575",
+        "LONGITUDE": "49.979614",
+        "ROUTE_NAME": "\u018fHM\u018fDL\u0130 m\/st-BEYN\u018fLXALQ AVTOVA\u011eZAL",
+        "LAST_UPDATE_TIME": "20200927021120",
+        "DISPLAY_ROUTE_CODE": "7A",
+        "SVCOUNT": "14"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "98228",
+        "PLATE": "99 JX 228",
+        "DRIVER_NAME": " ",
+        "CURRENT_STOP": "1162 NEFT\u00c7\u0130L\u018fR PARKI",
+        "PREV_STOP": "793 S\u018fM\u018fD B\u018fY MEHMANDAROV K\u00dc\u00c7 (1 SAYLI BAKI PE\u015e\u018f L\u0130SEY\u0130)",
+        "SPEED": "0",
+        "BUS_MODEL": "URBANWAY",
+        "LATITUDE": "40.356426",
+        "LONGITUDE": "49.981644",
+        "ROUTE_NAME": "N\u018fR\u0130MAN N\u018fR\u0130MANOV m\/st-NEFT\u00c7\u0130L\u018fR PARKI",
+        "LAST_UPDATE_TIME": "20201031130700",
+        "DISPLAY_ROUTE_CODE": "24",
+        "SVCOUNT": "17"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "98116",
+        "PLATE": "99 JX 116",
+        "DRIVER_NAME": " ",
+        "CURRENT_STOP": "50131 QARA QARAYEV PR. (B\u018fHRUZ NUR\u0130YEV K\u00dc\u00c7)",
+        "PREV_STOP": "50129 QARA QARAYEV PR. 115 (XALQLAR DOSTLU\u011eU m\/st)",
+        "SPEED": "0",
+        "BUS_MODEL": "URBANWAY",
+        "LATITUDE": "0",
+        "LONGITUDE": "0",
+        "ROUTE_NAME": "BAKI D\u018fM\u0130R YOLU VA\u011eZALI-257 SAYLI ORTA M\u018fKT\u018fB",
+        "LAST_UPDATE_TIME": "20201222180620",
+        "DISPLAY_ROUTE_CODE": "11",
+        "SVCOUNT": "0"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "98219",
+        "PLATE": "99 JX 219",
+        "DRIVER_NAME": " ",
+        "CURRENT_STOP": "40104 BAYIL Q\u018fS\u018fB\u018fS\u0130",
+        "PREV_STOP": "30244 \u0130\u00c7\u018fR\u0130\u015e\u018fH\u018fR m\/st",
+        "SPEED": "0",
+        "BUS_MODEL": "URBANWAY",
+        "LATITUDE": "40.35714",
+        "LONGITUDE": "49.98066",
+        "ROUTE_NAME": "AZADLIQ m\/st-BAYIL Q\u018fS\u018fB\u018fS\u0130",
+        "LAST_UPDATE_TIME": "20201031121550",
+        "DISPLAY_ROUTE_CODE": "6",
+        "SVCOUNT": "18"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "98274",
+        "PLATE": "99 JX 274",
+        "DRIVER_NAME": " ",
+        "CURRENT_STOP": "50212 \u0130LQAR \u018fHL\u0130MANOV K\u00dc\u00c7. 10",
+        "PREV_STOP": "40033 NAX\u00c7IVANSK\u0130 ADINA H\u018fRB\u0130 L\u0130SEY",
+        "SPEED": "0",
+        "BUS_MODEL": "URBANWAY",
+        "LATITUDE": "40.35693",
+        "LONGITUDE": "49.980793",
+        "ROUTE_NAME": "28 MAY m\/st-\u018fHM\u018fDL\u0130 m\/st",
+        "LAST_UPDATE_TIME": "20201031123500",
+        "DISPLAY_ROUTE_CODE": "21",
+        "SVCOUNT": "16"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "98224",
+        "PLATE": "99 JX 224",
+        "DRIVER_NAME": " ",
+        "CURRENT_STOP": "99995 SERVIS",
+        "PREV_STOP": "99994 SERVIS",
+        "SPEED": "0",
+        "BUS_MODEL": "URBANWAY",
+        "LATITUDE": "40.358",
+        "LONGITUDE": "49.981525",
+        "ROUTE_NAME": "KORO\u011eLU m\/st-BEYN\u018fLXALQ AVTOVA\u011eZAL",
+        "LAST_UPDATE_TIME": "20201130174510",
+        "DISPLAY_ROUTE_CODE": "13",
+        "SVCOUNT": "13"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "98250",
+        "PLATE": "99 JX 250",
+        "DRIVER_NAME": " ",
+        "CURRENT_STOP": "153 T\u018fBR\u0130Z K\u00dc\u00c7. 223",
+        "PREV_STOP": "2144 B\u00d6Y\u00dcK\u015eOR BULVARI",
+        "SPEED": "0",
+        "BUS_MODEL": "URBANWAY",
+        "LATITUDE": "40.357616",
+        "LONGITUDE": "49.97965",
+        "ROUTE_NAME": "NEFT\u00c7\u0130L\u018fR PARKI - N\u018fR\u0130MAN N\u018fR\u0130MANOV m\/st",
+        "LAST_UPDATE_TIME": "20201104234240",
+        "DISPLAY_ROUTE_CODE": "24",
+        "SVCOUNT": "12"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "98554",
+        "PLATE": "99 JX 554",
+        "DRIVER_NAME": " ",
+        "CURRENT_STOP": "30695 F\u018fT\u018fL\u0130 XAN XOYSK\u0130 K\u00dc\u00c7.",
+        "PREV_STOP": "40123 T\u018fBR\u0130Z K\u00dc\u00c7.",
+        "SPEED": "0",
+        "BUS_MODEL": "URBANWAY",
+        "LATITUDE": "0",
+        "LONGITUDE": "0",
+        "ROUTE_NAME": "257 SAYLI ORTA M\u018fKT\u018fB - BAKI D\u018fM\u0130R YOLU VA\u011eZALI",
+        "LAST_UPDATE_TIME": "20201223104550",
+        "DISPLAY_ROUTE_CODE": "11",
+        "SVCOUNT": "0"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "98231",
+        "PLATE": "99 JX 231",
+        "DRIVER_NAME": " ",
+        "CURRENT_STOP": "50127 M\u018fH\u018fMM\u018fD HAD\u0130 K\u00dc\u00c7.",
+        "PREV_STOP": "50125 M\u018fH\u018fMM\u018fD HAD\u0130 K\u00dc\u00c7. 59",
+        "SPEED": "0",
+        "BUS_MODEL": "URBANWAY",
+        "LATITUDE": "40.35725",
+        "LONGITUDE": "49.979343",
+        "ROUTE_NAME": "257 SAYLI ORTA M\u018fKT\u018fB - BAKI D\u018fM\u0130R YOLU VA\u011eZALI",
+        "LAST_UPDATE_TIME": "20201101110610",
+        "DISPLAY_ROUTE_CODE": "11",
+        "SVCOUNT": "19"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "97164",
+        "PLATE": "99 JK 194",
+        "DRIVER_NAME": "Sev\u0259r Murtuzov",
+        "CURRENT_STOP": "40046 \u018fHM\u018fDL\u0130 m\/st",
+        "PREV_STOP": "40034 ZI\u011e DA\u0130R\u018fS\u0130",
+        "SPEED": "0",
+        "BUS_MODEL": "",
+        "LATITUDE": "40.356453",
+        "LONGITUDE": "49.981625",
+        "ROUTE_NAME": "28 MAY m\/st-\u018fHM\u018fDL\u0130 m\/st",
+        "LAST_UPDATE_TIME": "20201031133820",
+        "DISPLAY_ROUTE_CODE": "21",
+        "SVCOUNT": "15"
+      }
+    },
+    {
+      "@attributes": {
+        "BUS_ID": "98383",
+        "PLATE": "99 JX 383",
+        "DRIVER_NAME": " ",
+        "CURRENT_STOP": "60201 257 SAYLI ORTA M\u018fKT\u018fB",
+        "PREV_STOP": " ",
+        "SPEED": "0",
+        "BUS_MODEL": "URBANWAY",
+        "LATITUDE": "40.355682",
+        "LONGITUDE": "49.98113",
+        "ROUTE_NAME": "257 SAYLI ORTA M\u018fKT\u018fB - BAKI D\u018fM\u0130R YOLU VA\u011eZALI",
+        "LAST_UPDATE_TIME": "20201031130800",
+        "DISPLAY_ROUTE_CODE": "11",
+        "SVCOUNT": "17"
+      }
+    }
+  ]
+}
